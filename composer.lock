@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "0227959105a9ac4bb4c0dbb0b7a6bbf4",
+    "content-hash": "e9bf08709a9c0179fbfdef365a49c012",
     "packages": [
         {
             "name": "amzn/amazon-pay-and-login-magento-2-module",
@@ -1474,12 +1474,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/hanhpv/magento2-module-office.git",
-                "reference": "37b0b12ac4baa2ea678ddaad69620b95c4e39629"
+                "reference": "4d4a65b9a978f16d539eb1dc38a58da81dce9a1a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/hanhpv/magento2-module-office/zipball/37b0b12ac4baa2ea678ddaad69620b95c4e39629",
-                "reference": "37b0b12ac4baa2ea678ddaad69620b95c4e39629",
+                "url": "https://api.github.com/repos/hanhpv/magento2-module-office/zipball/4d4a65b9a978f16d539eb1dc38a58da81dce9a1a",
+                "reference": "4d4a65b9a978f16d539eb1dc38a58da81dce9a1a",
                 "shasum": ""
             },
             "type": "magento2-module",
@@ -1502,7 +1502,7 @@
                 "source": "https://github.com/hanhpv/magento2-module-office/tree/master",
                 "issues": "https://github.com/hanhpv/magento2-module-office/issues"
             },
-            "time": "2019-08-12T15:07:22+00:00"
+            "time": "2019-12-28T03:29:25+00:00"
         },
         {
             "name": "hans/theme-frontend-nothing",
