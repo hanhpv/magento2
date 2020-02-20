@@ -11,7 +11,7 @@
         "sort-packages": true
     },
     "require": {
-        "hans/module-office": "dev-master", 
+        "hans/module-office": "dev-master",
         "hans/theme-frontend-nothing": "dev-master",
         "magento/module-bundle-sample-data": "100.3.*",
         "magento/module-catalog-rule-sample-data": "100.3.*",
@@ -89,7 +89,7 @@
         "magento2-module-office": {
             "type": "vcs",
             "url": "git@github.com:hanhpv/magento2-module-office.git"
-        } 
+        }
     },
     "extra": {
         "magento-force": "override"
